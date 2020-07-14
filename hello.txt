@@ -1,3 +1,4 @@
 Hello world!
 watch out !
+Cette ligne va créer un conflit 
 cette ligne est un conflit 2
