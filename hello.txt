@@ -1,2 +1,2 @@
 Hello world!
-watch out !
+Cette ligne va créer un conflit 
